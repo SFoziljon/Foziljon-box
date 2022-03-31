@@ -1,0 +1,333 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.contayner{
+    width: 1102px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.header-navigeyshn{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    box-shadow: 2px 3px 7px -1px rgb(200, 181, 247);
+}
+.header-services{
+    display: flex;
+}
+.header-firstpage-link{
+    text-decoration: none;
+    font-family: 'Open Sans';
+    font-size: 15px;
+    line-height: 24px;
+    color: #000000;
+}
+.header-firstpage-link:hover{
+    color: #00BAFC;
+}
+.header-sections{
+    display: flex;
+    list-style: none;
+}
+.header-link{
+   
+    text-decoration: none;
+    margin-left: 32px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: black;
+}
+.header-link:hover{
+    color: #00BAFC;
+}
+.header-link-tel{
+    margin-left: 24px;
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 8px 16px;
+    border-radius: 5px;
+    background-color: #00BAFC;
+    color: #fff;
+    border-color: #00BAFC;
+}
+.header-link-tel:hover{
+    background-color:#97d9f1;
+    color: black;
+}
+.Head-Department{
+    display: flex;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: space-between;
+}
+.section-content-text{
+    width: 470px;
+}
+.about-business{
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 60px;
+}
+.section-functions{
+   
+   
+    font-weight: 400;
+    margin-top: 16px;
+    font-size: 15px;
+    line-height: 24px;
+}
+.section-link{
+    text-decoration: none;
+    border: 1px solid black;
+    border-color: #00BAFC;
+    background-color: #00BAFC;
+    color: #fff;
+    border-radius: 5px;
+    padding: 8px 16px;
+    line-height: 70px;
+}
+.section-link:hover{
+    background-color: #97d9f1;
+    color:black;
+}
+.section-youtube{
+    border-radius: 10px;
+}
+.section-services{
+    margin-top: 56px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 60px;
+    text-align: center;
+    color: #000000;
+}
+.Department-of-services{
+    width:719px;
+    margin-right: auto;
+    margin-left: auto; 
+}
+.section-convenience{   
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    margin: 16px 0px;
+}
+.Turkey-tours{
+    display: flex;
+    margin-top: 24px;
+    list-style: none;
+    justify-content: center;
+}
+.content-link{
+    text-decoration: none;
+}
+.section-content-sevices{
+    box-shadow: 1px 7px 8px 1px #97d9f1;
+    width: 320px;
+    height: 260px;
+    text-align: center;
+}
+.selected{
+    margin-left: 70px;
+}
+.separated{
+    margin-top: 48px;
+}
+.sevices-paragirf{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 60px;
+    text-align: center;
+    color: #000000;
+}
+.selection-of-sections{
+    margin-top: 40px;
+    text-align: center;
+}
+.selection-sections-link{
+    text-decoration: none;
+    border: 1px solid #00BAFC ;
+    background-color: #00BAFC;
+    color: #fff;
+    padding: 8px 16px;
+}
+.selection-sections-link:hover{
+    background-color: #97d9f1;
+    color: black;
+}
+.selection-of-sections-link{
+    border: 1px solid transparent;
+    margin-left: 16px;
+    color: #00BAFC;
+    padding: 8px 16px;
+}
+.selection-of-sections-link:hover{
+    text-decoration: none;
+    border: 1px solid #00BAFC;
+    border-radius: 10px;
+}
+.order-of-work{
+    margin-top: 100px;
+    text-align: center;
+}
+.order-of-work-text{
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 77px; 
+}
+.work-structure{
+    width: 719px;
+    margin-right: auto;
+    margin-left: auto;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+}
+.section-students-royhati{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 70px;   
+}
+.section-text-p{
+    width: 493px;
+    height: 48px;
+    line-height: 24px;
+}
+.section-text--p{
+    width: 720px;
+}
+.section-contayner-1{
+    margin-top: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.to-order{   
+    padding: 8px 16px;
+    border: 1px solid #00BAFC;
+    background-color: #00BAFC;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+}
+.to-order:hover{
+    background-color: #97d9f1;
+    color: black;
+}
+.to-order-link{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+.to-order-text{
+    padding-top: 40px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 70px;
+    text-align: center;
+    color: #ffffff;     
+}
+.section-all{
+    background-color: #00BAFC;
+}
+.convenience{ 
+    width: 719px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 16px;
+    line-height: 25px; 
+    color: #ffffff; 
+}
+.section-input-cream{
+    padding-top: 24px;
+    padding-bottom: 64px;
+}
+.section-input{
+    margin-right: auto;
+    margin-left: auto;
+    justify-content: center;
+    width: 348px;
+    height: 310px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+.input{
+    width: 300px;
+    height: 56px;
+    margin: 24px 24px 6px 24px;
+    font-size: 16px;
+    border-radius: 5px;
+    background-color:#F3F3F3;
+}
+.button{
+    text-align: center;
+    margin-top:6px;
+}
+.to-button-order{
+    width: 167px;
+    height: 40px;
+    padding: 8px 16px 8px 16px;
+    background-color: #00BAFC;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.to-button-order:hover{
+    background-color: #97d9f1;
+    color: black;
+}
+.footer-cream{
+    padding-top: 56px;
+    padding-bottom: 56px;
+    background-color: #191919;  
+}
+.footer-section{
+    display: flex;
+    justify-content: space-around;
+}
+.footer-section-text{
+    color: #fff;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 50px;
+}
+.footer-section-educationallevel{
+    width: 320px;
+    height: 120px;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+.our-sites{  
+    list-style: none;
+}
+.pages{
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 40px;
+    color: #FFFFFF;
+}
+.footer-page{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 34px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.footer-page:hover{
+    color: #97d9f1;
+}
+.footer-logo{
+    display: flex;
+    margin-top: 10px;
+}
